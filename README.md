@@ -16,7 +16,7 @@ The Project instructions can be found at [here](https://github.com/JPLee01/Machi
 **Table of Contents**
 ------------------------------------------------------------------------------------------------
 
-[*Scikit-learn and Scipy-Stats Python Libraries](#Assessment-Machine-Learning-and-Statistics)
+[Scikit-learn and Scipy-Stats Python Libraries](#Assessment-Machine-Learning-and-Statistics)
 
 [1. Introduction](#1-introduction)
 
@@ -61,13 +61,14 @@ located [here](https://github.com/JPLee01/Programming_for_Data_Analysis-Assignme
   LICENSE     |    MIT License for the project
   scikit-learn.ipynb | Jupyter Notebook created to explain the *scikit-learn* library in Python
   scipy-stats.ipynb | upyter Notebook created to explain the *scipy-stats* library in Python
-  README.md   |    This file; A Description of the Assessment and Instructions
+  README.md   |    This file; A Description of the Assessment and Instructions for how to run the notebooks
+  requirments.txt | A text file explaining how to run the notebooks with minimal configuration
 
-## 3 scikit-learn library 
+## 3 scikit-learn Library 
 ------------------------------------------------------------------------------------------------
 
 
-## 4 scipy-stats library 
+## 4 scipy-stats Library 
 ------------------------------------------------------------------------------------------------
 
 ## 5 Problem Statement
@@ -99,9 +100,10 @@ Once the repository has been downloaded, you will need to ensure that you are ru
 jupyter notebook
 ```
 4. A notebook server should automatically launch in your default web browser (URL should be http://localhost:8888). If this does not happen, read the command prompt output. You can copy and paste the above URL into your web browser to access Jupyter Notebook.
-6. Using the menu on the left side of the page, double click the jupyter notebook file:
+6. Using the menu on the left side of the page, double click on the respective the jupyter notebook file:
 ```
-Programming_for_Data_Analysis-Assignment.ipynb
+scikit-learn.ipynb
+scipy-stats.ipynb
 ```
 7. The notebook should open in a new tab. You can run each cell with the keyboard shortcut SHIFT+ENTER, alternatively use the "play" button on the menu bar. Please note that certain cells must be run before others e.g. the cells importing the various Python libraries. You may find it convenient to use the "Run all Cells" option in the "Run" dropdown menu.
 
