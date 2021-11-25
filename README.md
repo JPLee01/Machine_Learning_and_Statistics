@@ -3,7 +3,7 @@
 * **Author:** John Paul Lee
 * **Github:** JPLee01
 * **Email:** G00387906@gmit.ie
-* **Created:** 04-11-2021, **Last update:** XX-12-2021
+* **Created:** 04-11-2021, **Last update:** XX-01-2022
 ------------------------------------------------------------------------------------------------
 **Machine Learning and Statistics:** Investigation into the Scikit-learn and Scipy-Stats Python libraries.
 
