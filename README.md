@@ -3,7 +3,7 @@
 * **Author:** John Paul Lee
 * **Github:** JPLee01
 * **Email:** G00387906@gmit.ie
-* **Created:** 04-11-2021, **Last update:** 08-01-2022
+* **Created:** 04-11-2021, **Last update:** 09-01-2022
 ------------------------------------------------------------------------------------------------
 **Machine Learning and Statistics:** Investigation into the Scikit-learn and Scipy-Stats Python libraries.
 
@@ -44,39 +44,40 @@ The Project instructions can be found at [here](https://github.com/JPLee01/Machi
 
 ## 1 Introduction
 ------------------------------------------------------------------------------------------------
-
+As part of the Assignment for the Machine Learning and Statistics module two Jupyter Notebooks have been created to investigate the Scikit-learn and Scipy-Stats Python libraries. Both notebooks will provide an overview of their respective libraries. The scikit-learn.ipynb notebook will focus on the Scikit-learn library to include three scikit-learn algorithms, while the scipy-stats.ipynb notebook will focus on the Scipy-Stats library to include a hypothsis test using ANOVA. The aforementioned notebooks which will contain markdown text, images, Python code and Plots in their analysis.
 
 
 ## 2 Project Repository
 ------------------------------------------------------------------------------------------------
-
 The Assignment Repository is the source where all the work associated with
 the assignment will be stored. It contains the following files and can be
 located [here](https://github.com/JPLee01/Programming_for_Data_Analysis-Assignment):
 
   **File**    |     **Description**
   ---------   |   --------------------------------------------------------
-  .gitignore | A Text File explicitly explaining to Git which files or folders to ignore in the Assignment
-  Instructions.pdf | A PDF copy of the Assessment Instructions
-  LICENSE     |    MIT License for the project
-  scikit-learn.ipynb | Jupyter Notebook created to explain the *scikit-learn* library in Python
-  scipy-stats.ipynb | upyter Notebook created to explain the *scipy-stats* library in Python
-  README.md   |    This file; A Description of the Assessment and Instructions for how to run the notebooks
-  requirments.txt | A text file explaining how to run the notebooks with minimal configuration
+  .gitignore | A Text File explicitly explaining to Git which files or folders to ignore in the Assignment.
+  Instructions.pdf | A PDF copy of the Assessment Instructions.
+  LICENSE     |    MIT License for the project.
+  scikit-learn.ipynb | Jupyter Notebook created to explain the *scikit-learn* library in Python.
+  scipy-stats.ipynb | upyter Notebook created to explain the *scipy-stats* library in Python.
+  README.md   |    This file; A Description of the Assessment and Instructions for how to run the notebooks.
+  requirments.txt | A text file explaining how to run the notebooks with minimal configuration.
 
 ## 3 scikit-learn Library 
 ------------------------------------------------------------------------------------------------
-
+Scikit-learn is a machine learning library for the Python programming language which was developed by David Cournapeau in 2007. Scikit-learn (also known as Sklearn) provides a selection of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction via a consistence interface in Python.
 
 ## 4 scipy-stats Library 
 ------------------------------------------------------------------------------------------------
+Scipy.stats is a sub-package within the SciPy (Scientific Python) library which is focused on statistical functions. The SciPy library is a open-source Python library built on the NumPy python package which is used for scientific and technical computing. The SciPy library is a collection of mathematical algorithms and convenience functions which allows users to manipulate and visualize data
 
 ## 5 Problem Statement
 ------------------------------------------------------------------------------------------------
-As part of the assessment, the student was given a set of instructions which can be viewed [here](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/Instructions.pdf). As seen, within the instructions three distinct tasks are listed to be carried out during the assessment:
-1. 
-2. 
-3. 
+As part of the assessment, the student was given a set of instructions which can be viewed [here](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/Instructions.pdf). As seen, within the instructions four distinct tasks are listed to be carried out during the assessment:
+1. Create a clear and informative Readme.md file explaining why the repository exists, what is in it and how to run the noteboks.
+2. Create a requirments.txt file that enables someone to quickly run your notebooks with minimal configuration.
+3. Create Jupyter Notebooks called scikit-learn.ipynb which provides a detailed overview of the library inlcuding three scikit-learn algorithms and appopriate plots and visualisations as necessary.
+4. Create Jupyter Notebooks called scipy-stats.ipynb which provides a detailed overview of the library inlcuding a hypothsis test using ANOVA and appopriate plots and visualisations as necessary.
 
 ## 6 User Guide
 ------------------------------------------------------------------------------------------------
@@ -108,18 +109,21 @@ scipy-stats.ipynb
 7. The notebook should open in a new tab. You can run each cell with the keyboard shortcut SHIFT+ENTER, alternatively use the "play" button on the menu bar. Please note that certain cells must be run before others e.g. the cells importing the various Python libraries. You may find it convenient to use the "Run all Cells" option in the "Run" dropdown menu.
 
 ### 6.3 Libraries
-The following Python libraries were used in the writing of the programs code and are required to successfully run the programs:
-* 
-* 
-* 
+The following Python libraries were used in the writing of the programs code and are required to successfully run the notebooks:
+* [Matplotlib.pyplot](https://matplotlib.org/tutorials/introductory/pyplot.html) - Used for the manipulation of elements and the creation of certain plots graphs, plots and charts within the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Numpy](https://www.numpy.org/) - Used for mathematical functions in the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Pandas](https://pandas.pydata.org/) - Used for import, management, data manipulation and analysis in both the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Scipy](https://scipy.org) - Python library used for scientific computing and technical computing within the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Seaborn](https://seaborn.pydata.org/) - Used for the creation and manipulation of plots in the [[scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Statsmodels](https://www.statsmodels.org/stable/index.html) - A python package to explore data, estimate statistical models, and perform statistical tests in the [[scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
 
-## 7 Summary, Conclusion and Future Analysis of the Scikit-learn and Scipy-Stats Python Libraries
+## 7 Summary, Conclusion and Future Analysis of the Scikit-Learn and Scipy-Stats Python Libraries
 ------------------------------------------------------------------------------------------------
-In summary it can be seen that 
+In summary it can be seen that both the Scikit-learn and Scipy-stats python libraries offer a wide array of machine learning functions. These functions can offer the user a number algorithms which can aid them in classification, regression, clustering, integration, interpolation etc. tasks. Both libraries are open source and can be easily imported and intergrated into Jupyter Notebook. Both libraries are also very versatile and serve in dealing with real wold problems such as prediction, clustering and may even yield to the user undiscovered data links.
 
-In conclusion after completion of the assignment the author feels they have gained 
+In conclusion after completion of the assignment the author feels they have gained a valued understanding in both libraries. This understanding the author feels will be of benefit to them moving forward in their career as it will help them in the identification of situations in which either the Scikit-learn or Scipy-stats will be of benefit. This new level of confidence was something the author did not have prior to undertaking the assigment.  In essence, the entire experience associated with the assignment can be summarised by the following Alex Peinger quote “In the end you should only measure and look at numbers that drive action, meaning that data tells you what you should do next”.
 
-In terms of future analysis 
+In terms of future analysis of both libraries the scope is essentially endless. The assignment only scratched the surface of both libraries and extensive analysis could be undertaken with other Scikit-learn algorithms, while another ANOVA test could be excuted under different conditions within Scipy-stats including the use of different Post Hoc tests. 
 
 ## 8 References
 ------------------------------------------------------------------------------------------------
@@ -228,18 +232,3 @@ Within the course of this assignment the following sources were used for researc
 *	Visually Explained - Support Vector Machine (SVM) in 2 minutes, https://www.youtube.com/watch?v=_YPScrckx28
 *	When Maths Meet Coding - Kernel Trick in Support Vector Machine (SVM) | explained with visualization, https://www.youtube.com/watch?v=wqSTBCguVyU
 *	Yashi Saxena - Analyzing Decision Tree and K-means Clustering using Iris dataset, https://www.analyticsvidhya.com/blog/2021/06/analyzing-decision-tree-and-k-means-clustering-using-iris-dataset/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
