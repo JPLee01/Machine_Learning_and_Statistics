@@ -69,7 +69,7 @@ Scikit-learn is a machine learning library for the Python programming language w
 
 ## 4 scipy-stats Library 
 ------------------------------------------------------------------------------------------------
-Scipy.stats is a sub-package within the SciPy (Scientific Python) library which is focused on statistical functions. The SciPy library is a open-source Python library built on the NumPy python package which is used for scientific and technical computing. The SciPy library is a collection of mathematical algorithms and convenience functions which allows users to manipulate and visualize data
+Scipy.stats is a sub-package within the SciPy (Scientific Python) library which is focused on statistical functions. The SciPy library is a open-source Python library built on the NumPy python package which is used for scientific and technical computing. The SciPy library is a collection of mathematical algorithms and convenience functions which allows users to manipulate and visualize data.
 
 ## 5 Problem Statement
 ------------------------------------------------------------------------------------------------
@@ -114,7 +114,7 @@ The following Python libraries were used in the writing of the programs code and
 * [Numpy](https://www.numpy.org/) - Used for mathematical functions in the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
 * [Pandas](https://pandas.pydata.org/) - Used for import, management, data manipulation and analysis in both the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
 * [Scipy](https://scipy.org) - Python library used for scientific computing and technical computing within the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
-* [Seaborn](https://seaborn.pydata.org/) - Used for the creation and manipulation of plots in the [[scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
+* [Seaborn](https://seaborn.pydata.org/) - Used for the creation and manipulation of plots in the [scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
 * [Statsmodels](https://www.statsmodels.org/stable/index.html) - A python package to explore data, estimate statistical models, and perform statistical tests in the [[scikit-learn.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scikit-learn.ipynb) and [scipy-stats.ipynb](https://github.com/JPLee01/Machine_Learning_and_Statistics/blob/main/scipy-stats.ipynb) notebooks.
 
 ## 7 Summary, Conclusion and Future Analysis of the Scikit-Learn and Scipy-Stats Python Libraries
